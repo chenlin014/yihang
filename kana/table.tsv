@@ -1,4 +1,4 @@
-あ	a
+あ	*
 い	i
 う	u
 え	e
@@ -8,7 +8,29 @@
 ぅ	xu
 ぇ	xe
 ぉ	xo
-ゔ	ua
+あっ	T*
+いっ	Ti
+うっ	Tu
+えっ	Te
+おっ	To
+あ゙	?
+い゙	?i
+ゔ	?u
+え゙	?e
+お゙	?o
+あ゚	O
+い゚	Oi
+う゚	Ou
+え゚	Oe
+お゚	Oo
+ゔぁ	v
+ゔぃ	vi
+ゔぅ	vu
+ゔぇ	ve
+ゔぉ	vo
+ゔゃ	vie
+ゔゅ	viu
+ゔょ	vio
 か	k
 き	ki
 く	ku
@@ -17,6 +39,7 @@
 きゃ	kie
 きゅ	kiu
 きょ	kio
+きぇ	*kie
 が	g
 ぎ	gi
 ぐ	gu
@@ -25,15 +48,16 @@
 ぎゃ	gie
 ぎゅ	giu
 ぎょ	gio
-か゚	ag
-き゚	agi
-く゚	agu
-け゚	age
-こ゚	ago
-ゕ	akq
-ゖ	akeq
-ヵ	ak
-ヶ	ake
+ぎぇ	*gie
+か゚	G
+き゚	Gi
+く゚	Gu
+け゚	Ge
+こ゚	Go
+ゕ	q
+ゖ	qe
+ヵ	Q
+ヶ	Qe
 さ	s
 し	si
 す	su
@@ -42,6 +66,7 @@
 しゃ	sie
 しゅ	siu
 しょ	sio
+しぇ	*sie
 ざ	z
 じ	zi
 ず	zu
@@ -50,6 +75,7 @@
 じゃ	zie
 じゅ	ziu
 じょ	zio
+じぇ	*zie
 た	t
 ち	ti
 つ	tu
@@ -58,6 +84,12 @@
 ちゃ	tie
 ちゅ	tiu
 ちょ	tio
+ちぇ	*tie
+つぁ	*t
+つぃ	*ti
+とぅ	*tu
+つぇ	*te
+つぉ	*to
 だ	d
 ぢ	di
 づ	du
@@ -66,7 +98,9 @@
 ぢゃ	die
 ぢゅ	diu
 ぢょ	dio
-っ	c
+ぢぇ	*die
+どぅ	*du
+っ	T
 な	n
 に	ni
 ぬ	nu
@@ -75,6 +109,7 @@
 にゃ	nie
 にゅ	niu
 にょ	nio
+にぇ	*nie
 は	h
 ひ	hi
 ふ	hu
@@ -99,6 +134,11 @@
 ぴゃ	pie
 ぴゅ	piu
 ぴょ	pio
+ふぁ	f
+ふぃ	fi
+ほぅ	fu
+ふぇ	fe
+ふぉ	fo
 ま	m
 み	mi
 む	mu
@@ -107,9 +147,11 @@
 みゃ	mie
 みゅ	miu
 みょ	mio
+みぇ	*mie
 や	ie
 ゆ	iu
 よ	io
+いぇ	*ie
 ゃ	xie
 ゅ	xiu
 ょ	xio
@@ -121,27 +163,33 @@
 りゃ	rie
 りゅ	riu
 りょ	rio
+りぇ	*rie
 わ	w
 ゐ	wi
 ゑ	we
 を	wo
-ゎ	awq
-ヷ	aw
-ヸ	awi
-ヹ	awe
-ヺ	awo
-ん	q
-ー	cq
-゚	ax
-゛	axc
-゙	xq
-゜	xcq
-ゝ	ani
-ゞ	aniq
-〱	akucq
-〲	aguc
-〳	akuq f
-〴	aguq f
-〵	f akuq
-ゟ	aioq ri
-ヿ	akoq to
+ゎ	*w
+うぃ	*wi
+うぅ	*wu
+うぇ	*we
+うぉ	*wo
+ヷ	W
+ヸ	Wi
+ヹ	We
+ヺ	Wo
+ん	N
+ー	c
+゙	D
+゚	Di
+゛	Du
+゜	Do
+々	=
+ゝ	=i
+ゞ	~i
+〱	=e
+〲	~e
+〳	=u
+〴	~u
+〵	=o
+ゟ	io ri
+ヿ	ko to
